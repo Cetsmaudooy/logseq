@@ -1,2 +1,4 @@
 #+TITLE: Hello logseq! my new page 001
 
+** ((603f0837-b248-418e-a0c3-20c7a8ed9301)) my first link
+**
