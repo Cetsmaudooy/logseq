@@ -1,5 +1,8 @@
 #+TITLE: Mar 3rd, 2021
 
 ** Hello logseq!
+:PROPERTIES:
+:id: 603f0837-b248-418e-a0c3-20c7a8ed9301
+:END:
 ** 链接1
 **
