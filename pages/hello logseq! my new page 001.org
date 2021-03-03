@@ -1,0 +1,3 @@
+#+TITLE: Hello logseq! my new page 001
+
+** 
